@@ -5,3 +5,7 @@ POPPY is a Python package that can create various forms of optical elements in o
 ## Types of Apertures
 
 <p align="center"><img src="https://github.com/mysteriousmartel/poppyProject/blob/master/apertures.png"></img></p>
+
+## What does POPPY do?
+
+
