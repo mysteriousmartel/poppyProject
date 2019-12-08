@@ -23,4 +23,4 @@ What the library can do from there is generate a wavefront that propagates light
 
 This package was made by Marshall Perrin of the Space Telescope Science Institute. It was originally made for assisting with simulations of the James Webb Space Telescope, but is now utilized by optical engineers for various kinds of teloscopy and imaging involving point source functions (PSF).
 
-Why this package means so much to myself and my collaborator is that it is an advanced version of our <a href="https://github.com/mbu54/601project">coded aperture project</a>.
+Why this package means so much to myself and my collaborator is that it is an advanced version of our <a href="https://github.com/mbu54/601project">coded aperture project</a>. We have since learned that there are other Python packages out there that are working to simulate wavefront propagation as well as convolve apertures with objects to reconstruct images.
