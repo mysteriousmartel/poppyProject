@@ -30,3 +30,7 @@ Why this package means so much to myself and my collaborator is that it is an ad
 ## Limitations of the library
 
 Since it has to deal with large calculations depending on the size of your simluation, memory is a big issue with running POPPY. For the installation alone, a hybrid gaming laptop was unable to install all parts for running the full extent of the library's processing ability, and is only able to run up to mid-tier computations.
+
+## Collaborators, references, and other info
+
+For this project, I worked with Merlin Hoffman under approval from our professor. He originally found this Python package, and we used my computer to get it to run and demonstrate how the code works.
